@@ -1,0 +1,20 @@
+.banner {
+    height: 200px;
+    background-color: #20315A;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-newspaper{
+    padding-right: 10px;
+}
+
+.info-color {
+    background-color: lightgrey !important;
+    margin-bottom: 20px;
+    color: #000000;
+}
